@@ -1,13 +1,12 @@
 def nan_expand(num):
     if num == 0:
         return ""
-    message = "Not a "*num
+    message = "Not a " * num
     message += "NaN"
     return message
 
+
 print(nan_expand(1))
-
-
 
 # In most programming languages, NaN stands for Not a Number. If we take a look at
 # the following JavaScript code:
