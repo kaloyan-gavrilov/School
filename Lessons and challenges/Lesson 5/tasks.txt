@@ -1,0 +1,21 @@
+Task 1.
+Write a script that asks the user for a text file name then reads the text
+in the file and:
+A) the script asks for a new file name and writes all the unique words in the
+in the file and how many times they occur. If such a file already exists, the script should print
+an error message in the console and ask for a filename again.
+B) Optionally, print two blank lines then output the words
+from the file ordered by their frequency of occurrence, starting with the most frequently
+occurring.
+We consider words to be maximal sequences of characters separated by a space.
+Sample input:
+See the sample file, you can use another.
+Task 2.
+Write a script that reads lines from a text file, where each line has a sequence of numbers
+separated by ", ". The task is to check whether there is a pair(s) of lines in this file that are
+a permutation of each other (i.e. are made up of the same elements, but possibly in a different
+order. Display the indexes of all such pairs on the console.
+Sample input:
+See the sample file, you can use another.
+Sample output:
+0 3
