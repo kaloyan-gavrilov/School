@@ -1,0 +1,6 @@
+Students with A: 
+Count of students with C : 9
+Average grade  0.12
+The exam was hard!
+
+16/1/2024 (day/month/year); 16:0
